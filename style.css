@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+}
+
+.jumbotron .container{
+    width: 800px;
+}
+
+.row{
+    padding-top: 50px;
+}
+
+.media-video {
+    width: 750px;
+    height: 450px;
+    padding-bottom: 5px;
+}
+
+.video-title, .video-additional-info, .title, .year{
+    text-align: left;
+    padding-left: 15px;
+}
